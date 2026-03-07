@@ -1,0 +1,8 @@
+{
+  "short_name": "Pipeline Builder",
+  "name": "VectorShift Pipeline Builder",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#020617",
+  "background_color": "#020617"
+}
